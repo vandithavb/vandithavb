@@ -55,7 +55,7 @@ Built an automated ETL pipeline using AWS to extract, transform, and load data f
 I'd love to collaborate and chat about projects, ideas, or anything tech-related! Feel free to reach out via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
-📧 Email: [vanditha@vb.com](mailto:vanditha@vb.com)
+📧 Email: [vanditha@vb.com](mailto:vanditha.vb@gmail.com)
 
 
 <!-- 
