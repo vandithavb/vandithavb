@@ -36,6 +36,8 @@ and developing assistive solutions for differently-abled individuals.
 
 This section highlights my data analysis projects, where I dive into datasets to uncover insights, discover patterns, and visualize results that drive informed decision-making.
 
+I encourage you to explore the **[full data analysis project folder here](https://github.com/vandithavb/Data_Analysis_Projects)**, where you'll find all of my data analysis work, with detailed insights and visualizations.
+
 [Movie Data Correlation Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)  
 Performed data analysis on a Kaggle movie dataset using Python to identify significant correlations and trends. Processed the data with pandas, calculated correlations, and visualized insights using Matplotlib and Seaborn through scatter plots and heatmaps.
 
