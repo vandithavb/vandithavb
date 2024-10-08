@@ -1,16 +1,40 @@
-# Welcome to My GitHub Portfolio! 👋
+# Welcome to Vanditha VB's Portfolio!
 
-Hi, I'm Vanditha VB! I'm a Python developer and data enthusiast who loves to solve real-world problems using data-driven solutions. This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on! 
+## 👋 Hi there!
+- 🔭 I'm a Python developer and data enthusiast who loves to solve real-world problems using data-driven solutions.
+- 💼 Projects: This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on! 
+     - [Python Development Projects](#python-development-projects)
+  <!-- - Web development, automation, and innovative tech solutions.-->
+     - [Data Analysis Projects](#data-analysis-projects)
+  <!-- - Insightful data exploration, visualizations, and trend analysis.-->
+     - [Data Engineering Projects](#data-engineering-projects)
+  <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
+- 📜 Certifications: I’ve completed several certifications to enhance my expertise in data analysis, Python development, and data engineering. Here are some key certifications!
+   - **[Python for Everybody (University of Michigan, Coursera)](https://coursera.org/share/190b05f04c18dc0905b2e96be471f52e)**
+   - **[Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)**
+   - **[Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)**   
+     
+- 🧑🏻‍🏫 I am currenly learning
+   - Data warehousing concepts with snowflake
+   - Apache Spark with Databricks
+   - Statistical Analysis
+- 📫 I'd love to collaborate and chat about projects, ideas, or anything tech-related! Feel free to reach out via  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vanditha.vb@gmail.com) |
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
 
-## Sections:
-1. [Python Development Projects](#python-development-projects)
-   - Web development, automation, and innovative tech solutions.
-2. [Data Analysis Projects](#data-analysis-projects)
-   - Insightful data exploration, visualizations, and trend analysis.
-3. [Data Engineering Projects](#data-engineering-projects)
-   - Building scalable ETL pipelines and cloud-based solutions.
+<!--## 💼 My Projects
+This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on! 
+- [Python Development Projects](#python-development-projects)
+  <!-- - Web development, automation, and innovative tech solutions.-->
+<!--- [Data Analysis Projects](#data-analysis-projects)
+  <!-- - Insightful data exploration, visualizations, and trend analysis.-->
+<!--- [Data Engineering Projects](#data-engineering-projects)
+  <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
 
-
+<!--## 📜 Certifications
+I’ve completed several certifications to enhance my expertise in data analysis, Python development, and data engineering. Here are some key certifications!
+- **[Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)**  
+- **[Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)**  
+- **[Python for Everybody (University of Michigan, Coursera)](https://coursera.org/share/190b05f04c18dc0905b2e96be471f52e)**  -->
 ---
 
 ## Python Development Projects
@@ -53,20 +77,19 @@ Built an automated ETL pipeline using AWS to extract, transform, and load data f
 
 ---
 
-## Let's Connect!
+<!---## Let's Connect!
 I'd love to collaborate and chat about projects, ideas, or anything tech-related! Feel free to reach out via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
-📧 Email: [vanditha.vb@gmail.com](mailto:vanditha.vb@gmail.com)
+<!---📧 Email: [vanditha.vb@gmail.com](mailto:vanditha.vb@gmail.com)
 
 
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ 
+
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
