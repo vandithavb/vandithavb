@@ -2,6 +2,7 @@
 
 ## 👋 Hi there!
 - 🔭 I'm a Python developer and data enthusiast who loves to solve real-world problems using data-driven solutions.
+
 - 💼 Projects: This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on! 
      - [Python Development Projects](#python-development-projects)
   <!-- - Web development, automation, and innovative tech solutions.-->
@@ -9,6 +10,7 @@
   <!-- - Insightful data exploration, visualizations, and trend analysis.-->
      - [Data Engineering Projects](#data-engineering-projects)
   <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
+  
 - 📜 Certifications: I’ve completed several certifications to enhance my expertise in data analysis, Python development, and data engineering. Here are some key certifications!
    - **[Python for Everybody (University of Michigan, Coursera)](https://coursera.org/share/190b05f04c18dc0905b2e96be471f52e)**
    - **[Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)**
