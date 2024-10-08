@@ -18,7 +18,7 @@
    - Data warehousing concepts with snowflake
    - Apache Spark with Databricks
    - Statistical Analysis
-- 📫 I'd love to collaborate and chat about projects, ideas, or anything tech-related! Feel free to reach out via  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vanditha.vb@gmail.com) |
+- 📫 Reach out to me via:
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
 
 <!--## 💼 My Projects
