@@ -12,9 +12,11 @@
   <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
   
 - 📜 Certifications: I’ve completed several certifications to enhance my expertise in data analysis, Python development, and data engineering. Here are some key certifications!
-   - **[Python for Everybody (University of Michigan, Coursera)](https://coursera.org/share/190b05f04c18dc0905b2e96be471f52e)**
+   - **[Python for Everybody (University of Michigan, Coursera)](https://www.coursera.org/account/accomplishments/verify/R9UYWNS4W5YZ)**
    - **[Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)**
-   - **[Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)**   
+   - **[Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)**
+   - **[Python Data Structures (Data Vidya)](https://www.coursera.org/account/accomplishments/verify/SZS6P66DKVM9)**
+   - **[Using Python to Access Web Data(Data Vidya)](https://www.coursera.org/account/accomplishments/verify/MWHS96GHCF6S)**
      
 <!--- 🧑🏻‍🏫 I am currenly learning
    - Data warehousing concepts with snowflake
