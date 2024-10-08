@@ -14,10 +14,11 @@
    - **[Google Data Analytics Professional Certificate (Coursera)](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)**
    - **[Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)**   
      
-- 🧑🏻‍🏫 I am currenly learning
+<!--- 🧑🏻‍🏫 I am currenly learning
    - Data warehousing concepts with snowflake
    - Apache Spark with Databricks
-   - Statistical Analysis
+   - Statistical Analysis-->
+
 - 📫 Reach out to me via:
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
 
