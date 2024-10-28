@@ -72,6 +72,10 @@ Performed data analysis on a Kaggle movie dataset using Python to identify signi
 
 [Bellabeat Smart Device Data Analysis Project](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)  
 This project analyzes Bellabeat smart device data using R programming, exploring user activity, sleep patterns, and wellness trends to provide insights and actionable recommendations for product improvements and growth opportunities.
+
+[Global CO₂ Emissions Visualization](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)
+Developed an interactive Tableau dashboard to analyze global CO₂ emissions per capita across countries and regions, showcasing emission trends and enabling insightful comparisons. This visualization provides a tool to explore historical and regional emission data for a better understanding of global environmental impacts.
+
   
 ## Data Engineering Projects
 
@@ -86,7 +90,7 @@ Built an automated ETL pipeline using AWS to extract, transform, and load data f
 I'd love to collaborate and chat about projects, ideas, or anything tech-related! Feel free to reach out via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)  
-<!---📧 Email: [vanditha.vb@gmail.com](mailto:vanditha.vb@gmail.com)
+
 
 
  
