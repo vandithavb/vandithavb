@@ -76,7 +76,9 @@ This project analyzes Bellabeat smart device data using R programming, exploring
 [Global CO₂ Emissions Visualization](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)  
 Developed an interactive Tableau dashboard to analyze global CO₂ emissions per capita across countries and regions, showcasing emission trends and enabling insightful comparisons. This visualization provides a tool to explore historical and regional emission data for a better understanding of global environmental impacts.
 
-  
+[Restaurant Order Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)  
+Conducted a comprehensive SQL analysis on a restaurant’s database to explore menu structure, order trends, and spending behaviors. Insights include menu composition and pricing, popular items, high-volume orders, and top spending customers, aiding in decision-making for pricing, inventory, and marketing strategies.  
+
 ## Data Engineering Projects
 
 In this section, you'll find a project that highlights my work in building ETL pipelines and designing efficient, cloud-based solutions to streamline data workflows and deliver impactful insights.
