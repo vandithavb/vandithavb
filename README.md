@@ -86,7 +86,7 @@ In this section, you'll find a project that highlights my work in building ETL p
 [ETL Pipeline using Spotify API and AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)  
 Built an automated ETL pipeline using AWS to extract, transform, and load data from the Spotify API. The project utilized services such as Lambda, S3, Glue, Athena, and CloudWatch to provide scalable, real-time insights for professionals.  
 
-[E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)
+[E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)   
 Designed a comprehensive data model for an e-commerce platform and analyzed key metrics using PostgreSQL and Python. The project focuses on understanding customer purchasing patterns, product performance, and sales trends, providing actionable insights to optimize business operations.
 
 ---
