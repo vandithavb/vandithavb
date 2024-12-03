@@ -87,7 +87,7 @@ In this section, you'll find a project that highlights my work in building ETL p
 Built an automated ETL pipeline using AWS to extract, transform, and load data from the Spotify API. The project utilized services such as Lambda, S3, Glue, Athena, and CloudWatch to provide scalable, real-time insights for professionals.  
 
 [E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)   
-Designed a comprehensive data model for an e-commerce platform and analyzed key metrics using PostgreSQL and Python. The project focuses on understanding customer purchasing patterns, product performance, and sales trends, providing actionable insights to optimize business operations.
+Designed and implemented a normalized relational database schema in PostgreSQL, creating a structured data model with relational constraints to ensure data integrity and enable efficient querying. Used Python to ingest and load raw e-commerce data from the Kaggle Instacart Market Basket Analysis dataset into the database. Developed SQL workflows for table creation, data integration, and aggregation and wrote complex SQL queries to analyze data, uncovering trends in customer behaviour, product performance, and sales patterns to support data-driven decision-making.
 
 ---
 
