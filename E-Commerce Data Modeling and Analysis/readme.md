@@ -32,7 +32,7 @@ The database follows a structured schema that adheres to normalization principle
 - Efficient data organization.
 - Elimination of redundancy.
 - Consistency across entities using primary and foreign key relationships.
-
+  ![Data Model](https://github.com/vandithavb/vandithavb/blob/main/E-Commerce%20Data%20Modeling%20and%20Analysis/data%20model.png)
 The schema captures many-to-many relationships between orders and products using the `order_products` table, with products linked to aisles and departments.
 
 ## Analysis Summary
