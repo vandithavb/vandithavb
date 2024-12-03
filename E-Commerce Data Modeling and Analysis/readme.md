@@ -2,7 +2,7 @@
 
 # E-Commerce Data Modeling and Analysis
 
-This project demonstrates the design of a relational database schema and the analysis of e-commerce transactional data using **PostgreSQL**, **SQL**, and **Python**. Data from the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/c/instacart-market-basket-analysis/data) is loaded into the database and analyzed to uncover trends in customer purchasing behaviour, product performance, and sales patterns.
+This project demonstrates the design of a relational database schema and the analysis of e-commerce transactional data using **PostgreSQL** and **Python**. Data from the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/c/instacart-market-basket-analysis/data) is loaded into the database and analyzed to uncover trends in customer purchasing behaviour, product performance, and sales patterns.
 
 ---
 
