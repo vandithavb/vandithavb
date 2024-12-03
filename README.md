@@ -77,7 +77,7 @@ This project analyzes Bellabeat smart device data using R programming, exploring
 Developed an interactive Tableau dashboard to analyze global CO₂ emissions per capita across countries and regions, showcasing emission trends and enabling insightful comparisons. This visualization provides a tool to explore historical and regional emission data for a better understanding of global environmental impacts.
 
 [Restaurant Order Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)  
-Conducted a comprehensive SQL analysis on a restaurant’s database to explore menu structure, order trends, and spending behaviors. Insights include menu composition and pricing, popular items, high-volume orders, and top spending customers, aiding in decision-making for pricing, inventory, and marketing strategies.  
+Conducted a comprehensive SQL analysis on a restaurant’s database to explore menu structure, order trends, and spending behaviours. Insights include menu composition and pricing, popular items, high-volume orders, and top-spending customers, aiding in decision-making for pricing, inventory, and marketing strategies.  
 
 ## Data Engineering Projects
 
@@ -85,6 +85,9 @@ In this section, you'll find a project that highlights my work in building ETL p
 
 [ETL Pipeline using Spotify API and AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)  
 Built an automated ETL pipeline using AWS to extract, transform, and load data from the Spotify API. The project utilized services such as Lambda, S3, Glue, Athena, and CloudWatch to provide scalable, real-time insights for professionals.  
+
+[E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)
+Designed a comprehensive data model for an e-commerce platform and analyzed key metrics using PostgreSQL and Python. The project focuses on understanding customer purchasing patterns, product performance, and sales trends, providing actionable insights to optimize business operations.
 
 ---
 
