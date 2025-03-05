@@ -1,15 +1,17 @@
 # Welcome to Vanditha VB's Portfolio!
 
 ## 👋 Hi there!
-- 🔭 I'm a Python developer and data enthusiast who loves to solve real-world problems using data-driven solutions.
+- 🔭 I'm a data enthusiast and a Python developer who loves to solve real-world problems using data-driven solutions.
 
-- 💼 Projects: This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on! 
-     - [Python Development Projects](#python-development-projects)
-  <!-- - Web development, automation, and innovative tech solutions.-->
+- 💼 Projects: This repository is a collection of my journey through **Python development**, **data analysis**, and **data engineering**—where every project tells a story of learning and growth. Feel free to explore each section and dive into the exciting projects I've worked on!
+   - [Data Engineering Projects](#data-engineering-projects)
+  <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
      - [Data Analysis Projects](#data-analysis-projects)
   <!-- - Insightful data exploration, visualizations, and trend analysis.-->
-     - [Data Engineering Projects](#data-engineering-projects)
-  <!-- - Building scalable ETL pipelines and cloud-based solutions.-->
+
+     - [Python Development Projects](#python-development-projects)
+  <!-- - Web development, automation, and innovative tech solutions.-->
+   
   
 - 📜 Certifications: I’ve completed several certifications to enhance my expertise in data analysis, Python development, and data engineering. Here are some key certifications!
    - **[Python for Everybody (University of Michigan, Coursera)](https://www.coursera.org/account/accomplishments/verify/R9UYWNS4W5YZ)**
@@ -42,24 +44,16 @@ I’ve completed several certifications to enhance my expertise in data analysis
 - **[Python for Everybody (University of Michigan, Coursera)](https://coursera.org/share/190b05f04c18dc0905b2e96be471f52e)**  -->
 ---
 
-## Python Development Projects
+## Data Engineering Projects
 
-This section showcases my Python development projects, where I leverage programming to solve real-world challenges through web development, automation, and innovative tech solutions.
+In this section, you'll find a project that highlights my work in building ETL pipelines and designing efficient, cloud-based solutions to streamline data workflows and deliver impactful insights.
 
-[Microblog Application](https://github.com/vandithavb/microblog-python-web)  
-Built a microblogging app using Flask and MongoDB for backend, with HTML and CSS for a responsive frontend. Enabled users to create, display, and manage blog entries. Integrated backend logic for real-time updates.  
+[ETL Pipeline using Spotify API and AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)  
+Built an automated ETL pipeline using AWS to extract, transform, and load data from the Spotify API. The project utilized services such as Lambda, S3, Glue, Athena, and CloudWatch to provide scalable, real-time insights for professionals.  
 
-[Habit Tracker App](https://github.com/vandithavb/HabitTracker)  
-Developed a habit tracker app that allows users to add, view, and complete daily habits. Integrated MongoDB for data persistence and used Flask blueprints to ensure modular structure. Managed environment variables securely with dotenv.
+[E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)   
+Designed and implemented a normalized relational database schema in PostgreSQL, creating a structured data model with relational constraints to ensure data integrity and enable efficient querying. Used Python to ingest and load raw e-commerce data from the Kaggle Instacart Market Basket Analysis dataset into the database. Developed SQL workflows for table creation, data integration, and aggregation and wrote complex SQL queries to analyze data, uncovering trends in customer behaviour, product performance, and sales patterns to support data-driven decision-making.
 
-[Hand Gesture Recognition](https://github.com/vandithavb/git-repo)  
-Created a hand gesture recognition solution using Python, employing convexity
-defects and background subtraction techniques. The project has real-life applications in smart device communication
-and developing assistive solutions for differently-abled individuals.
-
-
-
----
 
 ## Data Analysis Projects
 
@@ -79,15 +73,27 @@ Developed an interactive Tableau dashboard to analyze global CO₂ emissions per
 [Restaurant Order Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)  
 Conducted a comprehensive SQL analysis on a restaurant’s database to explore menu structure, order trends, and spending behaviours. Insights include menu composition and pricing, popular items, high-volume orders, and top-spending customers, aiding in decision-making for pricing, inventory, and marketing strategies.  
 
-## Data Engineering Projects
 
-In this section, you'll find a project that highlights my work in building ETL pipelines and designing efficient, cloud-based solutions to streamline data workflows and deliver impactful insights.
 
-[ETL Pipeline using Spotify API and AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)  
-Built an automated ETL pipeline using AWS to extract, transform, and load data from the Spotify API. The project utilized services such as Lambda, S3, Glue, Athena, and CloudWatch to provide scalable, real-time insights for professionals.  
+## Python Development Projects
 
-[E-Commerce Data Modeling and Analysis](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)   
-Designed and implemented a normalized relational database schema in PostgreSQL, creating a structured data model with relational constraints to ensure data integrity and enable efficient querying. Used Python to ingest and load raw e-commerce data from the Kaggle Instacart Market Basket Analysis dataset into the database. Developed SQL workflows for table creation, data integration, and aggregation and wrote complex SQL queries to analyze data, uncovering trends in customer behaviour, product performance, and sales patterns to support data-driven decision-making.
+This section showcases my Python development projects, where I leverage programming to solve real-world challenges through web development, automation, and innovative tech solutions.
+
+[Microblog Application](https://github.com/vandithavb/microblog-python-web)  
+Built a microblogging app using Flask and MongoDB for backend, with HTML and CSS for a responsive frontend. Enabled users to create, display, and manage blog entries. Integrated backend logic for real-time updates.  
+
+[Habit Tracker App](https://github.com/vandithavb/HabitTracker)  
+Developed a habit tracker app that allows users to add, view, and complete daily habits. Integrated MongoDB for data persistence and used Flask blueprints to ensure modular structure. Managed environment variables securely with dotenv.
+
+[Hand Gesture Recognition](https://github.com/vandithavb/git-repo)  
+Created a hand gesture recognition solution using Python, employing convexity
+defects and background subtraction techniques. The project has real-life applications in smart device communication
+and developing assistive solutions for differently-abled individuals.
+
+
+
+---
+
 
 ---
 
