@@ -30,7 +30,6 @@
 - [🐍 Python Development Projects](#-python-development-projects)
 - [🎓 Certifications & Expertise](#-certifications--expertise)
 - [📫 Connect With Me](#-connect-with-me)
-✨ Dive into my projects showcasing expertise in **Data Engineering, Analytics, and Python Development**, where I leverage cutting-edge technologies to solve complex data challenges.
 
 ---
 
