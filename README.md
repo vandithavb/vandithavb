@@ -10,9 +10,6 @@
 - ❄️ **Snowflake** - Cloud data warehousing for scalable analytics.
 - 🔗 **Apache NiFi** - Seamless data ingestion & workflow automation.
 - ☁️ **AWS Services** - Expertise in **EC2, S3, Lambda, Glue, Athena** for cloud-based ETL.
-- 📡 **Kafka & Streaming Data** - Real-time data movement & event-driven architectures.
-- 🔄 **Airflow** - Orchestrating complex workflows & automation.
-- 📊 **Big Data Technologies** - Hadoop, Spark Streaming for high-volume processing.
 - 🏗 **Data Modeling & Warehousing** - Designing optimized schemas for efficiency.
 
 ---
