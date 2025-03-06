@@ -40,9 +40,12 @@
 
 ### 📊 **Data Analytics Projects**
 
-- 🎬 **[Movie Data Correlation Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
-- 📱 **[Bellabeat Smart Device Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
+- 🍽️ [**Restaurant Order Analysis**](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)
 - 🌍 **[Global CO₂ Emissions Dashboard](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)**
+- 📱 **[Bellabeat Smart Device Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
+- 🎬 **[Movie Data Correlation Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
+
+
 
 
 ### 🐍 Python Development Projects
