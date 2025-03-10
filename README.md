@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vanditha VB
 
-✨ **Data Engineer & Python Developer | Cloud Enthusiast | Lifelong Learner**
+✨ **Data Engineer & Analyst | Python Developer |  SQL & Cloud Enthusiast | Lifelong Learner**
 
 🔭 **I'm currently preparing** for my AWS Solutions Architect certification and exploring Airflow for workflow automation.
 
