@@ -39,8 +39,7 @@
 - 🛒 **[E-Commerce Data Modeling & Analytics](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)**
 
 ### 📊 **Data Analytics Projects**
-- 🎯 **[Data Professional Survey Insights (Power BI)]([https://github.com/vandithavb/Data_Analysis_Projects/tree/main/data-professional-survey](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Data%20Professional%20Survey))**
-- 🎯 **[Data Professional Survey Insights (Power BI)]()**
+- 🎯 **[Data Professional Survey Insights (Power BI)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Data%20Professional%20Survey)**
 - 🍽️ [**Restaurant Order Analysis** (SQL)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)
 - 🌍 **[Global CO₂ Emissions Dashboard (Tableau)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)**
 - 📱 **[Bellabeat Smart Device Analysis (R)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
