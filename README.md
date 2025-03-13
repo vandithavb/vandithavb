@@ -39,11 +39,11 @@
 - 🛒 **[E-Commerce Data Modeling & Analytics](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)**
 
 ### 📊 **Data Analytics Projects**
-
-- 🍽️ [**Restaurant Order Analysis**](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)
-- 🌍 **[Global CO₂ Emissions Dashboard](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)**
-- 📱 **[Bellabeat Smart Device Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
-- 🎬 **[Movie Data Correlation Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
+- 🎯 **[Data Professional Survey Insights (Power BI)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/data-professional-survey)**
+- 🍽️ [**Restaurant Order Analysis** (SQL)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)
+- 🌍 **[Global CO₂ Emissions Dashboard (Tableau)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions)**
+- 📱 **[Bellabeat Smart Device Analysis (R)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
+- 🎬 **[Movie Data Correlation Analysis (Python)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
 
 
 
