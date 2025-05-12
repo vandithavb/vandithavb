@@ -57,7 +57,7 @@
 ---
 
 ## 🎓 Certifications & Expertise
-
+- ✅ Databricks Certified Data Engineer Associate
 - ✅ [Google Data Analytics Professional Certificate](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)
 - ✅ [Python for Data Engineering (Data Vidya)](https://www.linkedin.com/feed/update/urn:li:activity:7248794563635556352/)
 - ✅ [Python for Everybody (Coursera)](https://www.coursera.org/account/accomplishments/verify/R9UYWNS4W5YZ)
