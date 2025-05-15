@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Vanditha VB
 
-✨ **Data Engineer & Analyst | Python Developer |  SQL & Cloud Enthusiast | Lifelong Learner**
+✨ **Data Engineer & Analyst | Python Developer | SQL & Cloud Enthusiast | Lifelong Learner**
 
-🔭 **I'm currently preparing** for my AWS Solutions Architect certification and exploring Airflow for workflow automation.
+🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
 
 👯 **I'm open to exciting opportunities**, collaborations, and community-driven projects.
 
