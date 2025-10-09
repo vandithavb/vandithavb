@@ -34,6 +34,7 @@
 ## 🚀 Featured Projects
 
 ### 🔥 **Data Engineering Projects**
+- 🎯 **[E-Commerce Databricks Pipeline](https://github.com/vandithavb/E-Commerce-Databricks-Pipeline)**
 - 🏅 **[Azure Data Engineering Project – Tokyo Olympics](https://github.com/vandithavb/azure-data-engineering-project-tokyo-olympics)**
 - 📡 **[Real-Time Customer Data Pipeline (NiFi, AWS, Snowflake)](https://github.com/vandithavb/Real-Time-Customer-Data-Pipeline-with-Apache-NiFi-AWS-and-Snowflake)**
 - 🎵 **[Spotify API ETL Pipeline on AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)**
