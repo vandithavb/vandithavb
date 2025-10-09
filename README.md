@@ -11,9 +11,9 @@
 🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, and Python Development.
 
 🧑🏻‍🏫 **I am currently learning:**
-- 🌬️ **Airflow** for workflow management
+- 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
+- 🌬️ **Airflow and DBT** for workflow management
 - ☁️ **AWS Solutions Architect Certification**
-- 🚀 **Advanced Cloud Data Architectures**
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
 
@@ -45,8 +45,8 @@
 - 📱 **[Bellabeat Smart Device Analysis (R)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
 - 🎬 **[Movie Data Correlation Analysis (Python)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
 
-
-
+### 📊 **Machine Learning**
+- 🎯[Car Fuel Efficiency Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/02-Regression)
 
 ### 🐍 Python Development Projects
 
