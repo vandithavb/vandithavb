@@ -24,6 +24,7 @@
 - 🐍 **Python & SQL** – Efficient querying and pipeline development.
 - ⚡ **Apache Spark** – Distributed data processing at scale.
 - ❄️ **Snowflake** – Cloud-native data warehousing.
+- ⚡ **Databricks** - Unified Data Platform.
 - 🔗 **Apache NiFi** – Automated and scalable data ingestion.
 - ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
 - 🗃️ **Data Modeling & Warehousing** – Optimized schema design for maximum efficiency.
