@@ -48,6 +48,7 @@
 - 🎬 **[Movie Data Correlation Analysis (Python)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
 
 ### 📊 **Machine Learning**
+- 🎯[Auto Insurance Claim Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/Auto_Insurance_Claim_Prediction)
 - 🎯[Car Fuel Efficiency Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/02-Regression)
 
 ### 🐍 Python Development Projects
