@@ -69,4 +69,4 @@
 
 ---
 
-🔥 **Excited about Data Engineering, Analytics, and Python Development.** Feel free to explore my projects or reach out!
+🔥 **Excited about Data Engineering, Analytics, Machine Learning and Python Development.** Feel free to explore my projects or reach out!
