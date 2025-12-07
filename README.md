@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vanditha VB
 
-✨ **Data Engineer & Analyst | Python Developer | SQL & Cloud Enthusiast | Lifelong Learner**
+✨ **Data Engineer & Analyst | Python | SQL & Cloud Enthusiast | Machine Learning | Lifelong Learner**
 
 🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
 
@@ -8,7 +8,7 @@
 
 💬 **I'm interested in collaborating** on innovative data engineering and analytics solutions.
 
-🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, and Python Development.
+🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, Machine Learning and Python Development.
 
 🧑🏻‍🏫 **I am currently learning:**
 - 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
