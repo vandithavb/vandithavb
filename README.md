@@ -30,7 +30,6 @@
 - 🎯 [Habit Tracker Flask App](https://github.com/vandithavb/HabitTracker)
 - ✋ [Hand Gesture Recognition](https://github.com/vandithavb/git-repo)
 
----
 
 ## 🎓 Certifications & Expertise
 - ✅ [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d49d04e1-53ef-4b1a-a26f-29a9975d3e79#acc.43JnepWg)
@@ -40,6 +39,15 @@
 - ✅ [Python Data Structures (Coursera)](https://www.coursera.org)
 - ✅ [Using Python to Access Web Data (Coursera)](https://www.coursera.org/account/accomplishments/verify/MWHS96GHCF6S)
 
+## 💻 Tech Stack & Skills
+
+- 🐍 **Python & SQL** – Efficient querying and pipeline development.
+- ⚡ **Apache Spark** – Distributed data processing at scale.
+- ❄️ **Snowflake** – Cloud-native data warehousing.
+- ⚡ **Databricks** - Unified Data Platform.
+- 🔗 **Apache NiFi** – Automated and scalable data ingestion.
+- ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
+- 🗃️ **Data Modeling & Warehousing** – Optimized schema design for maximum efficiency.
 
 👯 **I'm open to exciting opportunities**, collaborations, and community-driven projects.
 
@@ -53,22 +61,5 @@
 - ☁️ **AWS Solutions Architect Certification**
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
-
----
-
-## 💻 Tech Stack & Skills
-
-- 🐍 **Python & SQL** – Efficient querying and pipeline development.
-- ⚡ **Apache Spark** – Distributed data processing at scale.
-- ❄️ **Snowflake** – Cloud-native data warehousing.
-- ⚡ **Databricks** - Unified Data Platform.
-- 🔗 **Apache NiFi** – Automated and scalable data ingestion.
-- ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
-- 🗃️ **Data Modeling & Warehousing** – Optimized schema design for maximum efficiency.
-
----
-
-
----
 
 🔥 **Excited about Data Engineering, Analytics, Machine Learning and Python Development.** Feel free to explore my projects or reach out!
