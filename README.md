@@ -61,5 +61,3 @@
 - ☁️ **AWS Solutions Architect Certification**
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
-
-🔥 **Excited about Data Engineering, Analytics, Machine Learning and Python Development.** Feel free to explore my projects or reach out!
