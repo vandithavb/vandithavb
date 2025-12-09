@@ -4,6 +4,8 @@
 
 🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
 
+🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, Machine Learning and Python Development.
+
 ## 🚀 Featured Projects
 
 ### 🔥 **Data Engineering Projects**
@@ -52,8 +54,6 @@
 👯 **I'm open to exciting opportunities**, collaborations, and community-driven projects.
 
 💬 **I'm interested in collaborating** on innovative data engineering and analytics solutions.
-
-🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, Machine Learning and Python Development.
 
 🧑🏻‍🏫 **I am currently learning:**
 - 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
