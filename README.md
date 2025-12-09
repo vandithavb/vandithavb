@@ -4,33 +4,6 @@
 
 🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
 
-👯 **I'm open to exciting opportunities**, collaborations, and community-driven projects.
-
-💬 **I'm interested in collaborating** on innovative data engineering and analytics solutions.
-
-🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, Machine Learning and Python Development.
-
-🧑🏻‍🏫 **I am currently learning:**
-- 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
-- 🌬️ **Airflow and DBT** for workflow management
-- ☁️ **AWS Solutions Architect Certification**
-
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
-
----
-
-## 💻 Tech Stack & Skills
-
-- 🐍 **Python & SQL** – Efficient querying and pipeline development.
-- ⚡ **Apache Spark** – Distributed data processing at scale.
-- ❄️ **Snowflake** – Cloud-native data warehousing.
-- ⚡ **Databricks** - Unified Data Platform.
-- 🔗 **Apache NiFi** – Automated and scalable data ingestion.
-- ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
-- 🗃️ **Data Modeling & Warehousing** – Optimized schema design for maximum efficiency.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔥 **Data Engineering Projects**
@@ -66,6 +39,35 @@
 - ✅ [Python for Everybody (Coursera)](https://www.coursera.org/account/accomplishments/verify/R9UYWNS4W5YZ)
 - ✅ [Python Data Structures (Coursera)](https://www.coursera.org)
 - ✅ [Using Python to Access Web Data (Coursera)](https://www.coursera.org/account/accomplishments/verify/MWHS96GHCF6S)
+
+
+👯 **I'm open to exciting opportunities**, collaborations, and community-driven projects.
+
+💬 **I'm interested in collaborating** on innovative data engineering and analytics solutions.
+
+🤘 **Explore my GitHub profile** to see various projects in Data Engineering, Analytics, Machine Learning and Python Development.
+
+🧑🏻‍🏫 **I am currently learning:**
+- 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
+- 🌬️ **Airflow and DBT** for workflow management
+- ☁️ **AWS Solutions Architect Certification**
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
+
+---
+
+## 💻 Tech Stack & Skills
+
+- 🐍 **Python & SQL** – Efficient querying and pipeline development.
+- ⚡ **Apache Spark** – Distributed data processing at scale.
+- ❄️ **Snowflake** – Cloud-native data warehousing.
+- ⚡ **Databricks** - Unified Data Platform.
+- 🔗 **Apache NiFi** – Automated and scalable data ingestion.
+- ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
+- 🗃️ **Data Modeling & Warehousing** – Optimized schema design for maximum efficiency.
+
+---
+
 
 ---
 
