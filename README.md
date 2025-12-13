@@ -56,7 +56,7 @@
 💬 **I'm interested in collaborating** on innovative data engineering and analytics solutions.
 
 🧑🏻‍🏫 **I am currently learning:**
-- 🚀**Machine Learning ZoomCamp 2025(DataTalks)**
+- 🚀**Machine Learning ZoomCamp 2025**
 - 🌬️ **Airflow and DBT** for workflow management
 - ☁️ **AWS Solutions Architect Certification**
 
