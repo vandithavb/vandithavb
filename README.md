@@ -2,6 +2,11 @@
 
 ✨ **Data Engineer & Analyst | Python | SQL & Cloud Enthusiast | Machine Learning | Lifelong Learner**
 
+
+Data Engineer with strong expertise in Python, PySpark, and SQL, and a solid understanding of Apache Spark’s distributed architecture.
+
+Hands-on experience in implementing scalable lakehouse architectures using Databricks and Delta Lake, building end-to-end data pipelines across Azure, AWS and GCP environments.
+
 🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
 - ✅ [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d49d04e1-53ef-4b1a-a26f-29a9975d3e79#acc.43JnepWg)
 - ✅ [Google Data Analytics Professional Certificate](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)
