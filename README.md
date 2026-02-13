@@ -15,6 +15,10 @@
 - 🎵 **[Spotify API ETL Pipeline on AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)**
 - 🛒 **[E-Commerce Data Modeling & Analytics](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)**
 
+  ### 📊 **Machine Learning**
+- 🎯[Auto Insurance Claim Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/Auto_Insurance_Claim_Prediction)
+- 🎯[Car Fuel Efficiency Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/02-Regression)
+
 ### 📊 **Data Analytics Projects**
 - 🎯 **[Data Professional Survey Insights (Power BI)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Data%20Professional%20Survey)**
 - 🍽️ [**Restaurant Order Analysis** (SQL)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis)
@@ -22,9 +26,6 @@
 - 📱 **[Bellabeat Smart Device Analysis (R)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis)**
 - 🎬 **[Movie Data Correlation Analysis (Python)](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Movie%20Data%20Correlation%20Analysis)**
 
-### 📊 **Machine Learning**
-- 🎯[Auto Insurance Claim Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/Auto_Insurance_Claim_Prediction)
-- 🎯[Car Fuel Efficiency Prediction](https://github.com/vandithavb/machine-learning-zoomcamp-2025/tree/main/02-Regression)
 
 ### 🐍 Python Development Projects
 
