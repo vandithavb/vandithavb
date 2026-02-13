@@ -42,7 +42,7 @@
 - 🐍 **Python & SQL** – Efficient querying and pipeline development.
 - ⚡ **Apache Spark** – Distributed data processing at scale.
 - ⚡ **Databricks** - Delta Lake, Delta Tables, Unity Catalog, Pyspark and SparkSQL
-- ☁️ **Azure (ADLS Gen2, ADF)**  – Orchestration and Data Lake
+- ☁️ **Azure (ADLS Gen2, ADF)**  – Data Lake and Orchestration
 - ❄️ **Snowflake** – Cloud-native data warehousing.
 - 🔗 **Apache NiFi** – Automated and scalable data ingestion.
 - ☁️ **AWS (EC2, S3, Lambda, Glue, Athena)** – Robust cloud ETL solutions.
