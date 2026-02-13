@@ -3,8 +3,6 @@
 ✨ **Data Engineer & Analyst | Python | SQL & Cloud Enthusiast | Machine Learning | Lifelong Learner**
 
 🎓 **Databricks Certified Data Engineer Associate** | **Google Data Analytics Specialization**
-
-## 🎓 Certifications & Expertise
 - ✅ [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/d49d04e1-53ef-4b1a-a26f-29a9975d3e79#acc.43JnepWg)
 - ✅ [Google Data Analytics Professional Certificate](https://coursera.org/share/09762e92c1f747b3fde10e1fc41ac4c5)
 
