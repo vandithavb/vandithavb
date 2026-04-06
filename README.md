@@ -18,7 +18,7 @@ Hands-on experience in implementing scalable lakehouse architectures using Datab
 ### 🔥 **Data Engineering Projects**
 - 🎯 **[Automotive Manufacturing Azure Pipeline](https://github.com/vandithavb/Azure_Databricks_auto)**
 - 🎯 **[E-Commerce Databricks Pipeline](https://github.com/vandithavb/E-Commerce-Databricks-Pipeline)**
-- 🏅 **[Multi-Source Analytics Platform](https://github.com/vandithavb/azure-data-engineering-project-tokyo-olympics)**
+- 🏅 **[End-to-End Analytics Platform](https://github.com/vandithavb/azure-data-engineering-project-tokyo-olympics)**
 - 📡 **[Real-Time Customer Data Pipeline (NiFi, AWS, Snowflake)](https://github.com/vandithavb/Real-Time-Customer-Data-Pipeline-with-Apache-NiFi-AWS-and-Snowflake)**
 - 🎵 **[Spotify API ETL Pipeline on AWS](https://github.com/vandithavb/Spotify-end-to-end-ETL-data-Pipeline--AWS)**
 - 🛒 **[E-Commerce Data Modeling & Analytics](https://github.com/vandithavb/vandithavb/tree/main/E-Commerce%20Data%20Modeling%20and%20Analysis)**
