@@ -16,6 +16,7 @@ Hands-on experience in implementing scalable lakehouse architectures using Datab
 ## 🚀 Featured Projects
 
 ### 🔥 **Data Engineering Projects**
+- 🎯 **[Real Time Payments Risk Monitoring Platform](https://github.com/vandithavb/Real-Time-Payments-Risk-Monitoring-Platform)**
 - 🎯 **[Automotive Manufacturing Data Lakehouse](https://github.com/vandithavb/Azure_Databricks_auto)**
 - 🎯 **[E-Commerce Databricks Pipeline](https://github.com/vandithavb/E-Commerce-Databricks-Pipeline)**
 - 🏅 **[Azure End-to-End Analytics Platform](https://github.com/vandithavb/azure-data-engineering-project-tokyo-olympics)**
